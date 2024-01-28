@@ -1,7 +1,7 @@
 var searchData = $(".search-data")
 var listOfCities = []
 var city
-var APIKey = "78348e5f28e3de3c5614816a69e65e62";
+var APIKey = "11a5be4847169da8f5f32900ef05ec6e";
 
 // Function to set cities from list of Cities 
 function saveCities() {
